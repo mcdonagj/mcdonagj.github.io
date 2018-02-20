@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "[Python] International Tip Calculator"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Tip Calculator utilizing Google Finance API for accurate data values."
 project: true
 tag:
-- markdown 
+- python
+- google-finance
 comments: true
 ---
 
