@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tags: [about, projects]
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
