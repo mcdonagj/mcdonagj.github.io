@@ -9,7 +9,7 @@ comments: false
 About Me
 --------
 
-I am a senior Computer Science major at James Madison University. I enjoy cooking, camping, and movies. I will be graduating this upcoming December (2018).
+Gary is a Computer Science graduate from James Madison University. I enjoy cooking, camping, and movies.
 
 Contact Details
 ---------------
@@ -21,4 +21,4 @@ Virginia
 <br />
 [mcdonagj@dukes.jmu.edu](mailto:mcdonagj@dukes.jmu.edu)
 
-[Download Resume](/mcdonagj_s17_resume_v3.pdf)
+[Download Resume](/mcdonagj_resume.pdf)
